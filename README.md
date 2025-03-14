@@ -3,6 +3,14 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
+Commits: A commit is a function of storing adjustments that were created in a software project. 
+Branching: Branching lets software developers make different lines of development within their software project, empowering the developers to work on separate features or bug corrections in isolation without having an impact on the project as a whole.
+Merging: Merging is the procedure of integrating adjustments from contrasting branches back into the main source code. It is important for blending features and bug corrections into the main project.
+
+Github is constructed from Git, an allocated version control system that lets software developers to trace adjustments to code as time goes by, integrate productively and return to former version if necessary. It offers a streamlined locality to save and distribute Git repositories, ensuring that it is simple for teams to retrieve, work jointly on, and observe code from anywhere. The version tool gives features that improve collaboration, therefore granting developers the opportunity to speak about code adjustments, propose enhancements, and trace progress. Github gives a user-friendly user interface that clarifies the procedure of utilising Git, ensuring that it is understandable to developers of different skill levels. Github can take up huge projects and departments, establishing it appropriate for small and large scale software development institutions.
+
+Version control assists in preserving project integrity by issuing a comprehensive archive of adjustments, allowing simple tracing of enhancements, returning to former versions of the project, and empowering integration among team members, securing data accuracy and trustworthiness.
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
