@@ -13,6 +13,33 @@ Version control assists in preserving project integrity by issuing a comprehensi
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
+Step 1: On the upper right side of the application there is a plus sign that one has to click, it will bring a dropdown that states 'new repository' and 'import repository' among other titles. 'New repository' should be selected.
+Step 2: After clicking on new repository, one will be taken to a different page. In this page, details of the new repository should be filled in. This is where the owner of the repository should write a succinct and unforgettable name for the project file or repository.
+Step 3: Within the same page, the owner of the repository should choose who can see the repository. There are two options, public and private. Public states that any person on the internet can view the repository but the owner can choose who is allowed to commit on the repository. Private states that the owner of the repository wholly chooses who can view and commit the repository. 
+Step 4: Add a ReadMe file to the repository. This part of the repository is where the owner may compose a detailed description about the project such as its functionality, what others are allowed to do with the project and how they may utilise the project.
+Step 5: The last step would be to create the repository.
+
+The optional steps include creating a short description of the project, which can be countered by adding a ReadMe file. Adding .gitignore is another optional step, this is a plain text file that tells git to disregard particular files or directories, averting those files and directories from being traced, and committed to the repository. And the last optional step would be creating a license for the code, this lets others know what they are allowed and not allowed to do with the owner's code.
+
+When creating a github repository there are crucial decisions one has to make during the procedure, which include:
+
+Naming the repository: 
+Explanatory and succinct name - The name of the repository should understandably mirror the project's motive or the code's use.
+Regular naming protocols - Utilising a naming protocol that the whole crew or institution employs to preserve regularity throughout repositories.
+
+Hosting provider: 
+Local repository - This is good for individual projects or when one does not require partnership or version history.
+Remote repository - This is good for partnership projects, version control, and distributing code with other entities.
+
+Project framework:
+Categorised index framework - Make an arranged index system to ensure that it is simpler to manoeuvre and discover files.
+Distinct arrangement - Class affiliated files and folders rationally to enhance serviceability.
+
+Creating a .gitignore file:
+Eliminate inessential files - Make a .gitignore file to identify files and directories that Git should disregard.
+Avoid committing inessential data - This makes sure that the repository doesn't append unnecessary or delicate documentation.
+
+
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
