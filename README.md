@@ -79,12 +79,55 @@ Viewability - Private repositories are limited to the proprietor and the individ
 
 Access - The proprietor and those they gave access are the only ones allowed to see, copy, make changes to the repository. 
 
-How private repositories can be utilised - Private repositories are fit for projects that have confidential information, patented code, or when partnership is restricted to a particular group.
+How private repositories can be utilised - Private repositories are fit for projects that have confidential information, patented code, or when a partnership is restricted to a particular group.
 
-Security - Private repositories give greater safety for confidential information and intellectual resources, due to admittance being supervised.
+Security - Private repositories give greater safety for confidential information and intellectual resources, due to supervised admittance.
 
 Advantages of Public Repositories:
 
+Partnership and Open Source: Public repositories are good for open-source projects, letting any developer see, fork, and donate code, encouraging a collective atmosphere.
+
+Perceptibility and Publicity: They give an outlet to showcase an individual's skills to possible employers and the wider developer community, raising project visibility.
+
+Zero-fee Hosting: A lot of outlets give free hosting for public repositories, ensuring that it is attainable for open-source projects.
+
+Education and Commentary: Public repositories let developers learn from other developers' code, get comments, and enhance their expertise.
+
+Simple Donation: Forking and pull request ensure that it is simpler for other developers to donate to the project.
+
+Disadvantages of Public Respositories:
+
+Security Threats: Public repositories may reveal confidential information or patented code to anyone, presenting a safety threat.
+
+Forfeiture of Authority: Once a code is made public, its hard to authorise who gets to enter and adjust the code.
+
+Privacy Issues: Public repositories are not fit for projects that need discretion or patented code.
+
+Possibility of Abuse: Openly obtainable code can be abused or cloned without authorisation.
+
+Regulation Problems: Dispensing code without correct licencing or authority may guide towards legal issues.
+
+Advantages of Private Repositories:
+
+Escalated Security: Private repositories limit entrance to particular users or partners, safeguarding confidential data and conceptual resources from unsanctioned entrance.
+
+Improved Management: The holders of the code have substantial authority over who may see, adjust, and donate wtowards the repository, guaranteeing a well-managed development environment.
+
+Fit for Patented Code: Private repositories are good for preserving and controlling patented code, in-house resources, and private projects that should not be made available to the public.
+
+Partnership: Private repositories let teams work together constructively revealing confidential data to the public.
+
+Disadvantages of Private Repositories:
+
+Restricted Viewing: Private repositories cannot be examined by the public, hence, restricting the possibility for open-source donations and commentary.
+
+Possibility for Higher Costs: Some forums may demand more payment for private repositories, or give restricted attributes within free degrees.
+
+Escalated Administrative Costs: Supervising entry authorisations and partners in private repositories needs more work than in public repositories.
+
+Lessened Traceability: Private repositories are not noticeable to the public, which can inhibit their possibility to appeal to outside donations or partnerships.
+
+Security Threats: Even though public repositories are created for safety, they can still be susceptible to unsanctioned entry if they are not well protected and supervised.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
