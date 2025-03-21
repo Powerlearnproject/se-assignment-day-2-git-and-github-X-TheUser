@@ -131,7 +131,26 @@ Security Threats: Even though public repositories are created for safety, they c
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
+The steps involved in creating your first commit are:
+1. In the repository's catalogue of files, click on the file you want to commit.
+2. Once the file is opened, on the top right corner of the file's field of vision you should click the pencil symbol.
+3. In the content box, write what you need to compose.
+4. On the top left corner of the text box, click on the preview button.
+5. Assess the adjustments you created within the file. When show diff is clicked, one will view the new text in green.
+6. Select commit changes.
+7. Within the 'commit message' frame, one will fill in a succinct commit message about the adjustments that they have made to the file.
+8. Under the commit message box, choose whether you want to attach your commit to the recent branch or within a new branch. In the case of your recent branch being the set branch, one should opt to make a new branch for the commit and then make a pull request.
+9. Lastly, select commit changes or propose changes.
+
+Commits in the sense of github are snapshots of a developer's project files at a particular instant, illustrating a bunch of adjustments made to the codebase.
+
+In terms of tracing changes, every commit documents the adjustments made to files, involving who created the adjustments, when they were created and what the adjustments were.
+
+In terms of managing different versions, commits create a history of one's project, encouraging one to go back to former versions if an adjustment causes problems or to analyse different forms of the code.
+
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+
+Branching is a crucial idea that lets developers operate on different varieties of a project concurrently.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
